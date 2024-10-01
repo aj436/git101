@@ -1,0 +1,6 @@
+time
+date
+clock
+hand
+hour hand
+minute hand
